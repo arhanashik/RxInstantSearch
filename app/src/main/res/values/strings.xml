@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RxInstantSearch</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_search">Type contact name</string>
+
+    <string name="title_activity_local_search">Local Search</string>
+    <string name="title_activity_remote_search">Remote Search</string>
+</resources>
